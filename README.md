@@ -1,4 +1,4 @@
 # Free-Practice-Tests
 AWS, Azure
 
-[AWS](https://www.koenig-solutions.com/AWS)
+[AWS-koenig-solutions](https://www.koenig-solutions.com/AWS)
